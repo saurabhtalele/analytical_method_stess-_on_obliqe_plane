@@ -1,0 +1,2 @@
+# analytical_method_stess-_on_obliqe_plane
+analytical_method_stess _on_obliqe_plane
